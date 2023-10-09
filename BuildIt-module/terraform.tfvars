@@ -1,0 +1,8 @@
+region = "ap-south-1"
+app_name = "BuildIT"
+environment_name = "dev"
+ami = "ami-0f5ee92e2d63afc18"
+instance_type = "t2.micro"
+user = "BuildIt"
+keyname = "BuildIt"
+availability_zone = "ap-south-1a"
